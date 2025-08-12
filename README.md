@@ -16,7 +16,7 @@ This repository is a curated collection of scripts and automation recipes I’ve
 ## 📚 Recipes
 
 ### 💽 Backup and Synchronization
-1. [WYNC - Windows Synchronization Utility](./recipes/backup-and-synchronization/) - Pull and Push files with a remote windows server with PowerShell backed by robocopy
+1. [WYNC - Windows Synchronization Utility](./recipes/backup-and-synchronization/wync/README.md) - Pull and Push files with a remote windows server with PowerShell backed by robocopy
 
 ## 📜 License
 This project is licensed under the MIT License.
